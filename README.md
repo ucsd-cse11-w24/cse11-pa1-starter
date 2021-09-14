@@ -1,7 +1,11 @@
-# CSE-11 Programming Assignment 0.5
-### Due Date: Thursday, July 5, 11:59PM Pacific Time
+# CSE 11 Programming Assignment 1
+
+### Due Date: Tuesday, September 28, 10:00PM Pacific Time
+
 ## Learning Goals
 - Set up and test your Java development environment
+- Write functions that take integer parameters and return integer results.
+- Practice using design recipes
 
 ## Process
 - General instructions for setting up your environment can be found in [this](https://github.com/CSE11-SU121-Assignments/cse11-pa0.5-Setup-starter/blob/main/Instructions%20for%20setting%20up%20Java%20on%20your%20own%20machine.pdf) document, and as video tutorials for [Windows](https://drive.google.com/file/d/1FxIAaGj7JAAN5QNpqcx1JBdv36yzX6TX/view?usp=sharing)  and [Mac](https://drive.google.com/file/d/1EsF6t_ZA7TIdQ0iIu9X_dh1T5YGmzxNG/view?usp=sharing). Instructions for accessing CloudLabs can be found [here](https://github.com/CSE11-SU21-Assignments/cse11-sp21-pa0.5-Setup-starter/blob/main/CloudLabs%20Instructions.pdf).
@@ -35,14 +39,6 @@ Compile and run your program. You can find instructions for "Editing Your Java C
 [Word version of the template](https://github.com/CSE11-SU21-Assignments/cse11-pa0.5-Setup-starter/blob/main/PA0.5%20Submission%20Template.docx).
 
 
-
-# CSE 11 Programming Assignment 1
-
-### Due Date: Tuesday, September 28, 10:00PM Pacific Time
-
-## Learning Goals
-- Write functions that take integer parameters and return integer results.
-- Practice using design recipes
 
 ## Collaboration
 Different assignments in this course have different collaboration policies. On this assignment, you can collaborate with **anyone in the course**, including **sharing code**. In your submission, give credit to all students and course staff who helped you with this assignment by noting their name and how you used their ideas or work. Note that using someone's work without giving credit to them is a violation of academic integrity.
