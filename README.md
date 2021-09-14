@@ -31,10 +31,8 @@ Create a new directory named pa05. Create a new file in pa05 named:
 `IntroductionTo.java`
 Put the following code into that file (you can copy-paste):
 ```
-class IntroductionTo {
-	public static void main(String[] args) {
-		System.out.println("Welcome to CSE 11");
-	}
+class FirstExample {
+  int theNumberFive = 5;
 }
 ```
 Compile and run your program. You can find instructions for "Editing Your Java Code" and "Running Your Java Code" [here](https://github.com/CSE11-SU121-Assignments/cse11-pa0.5-Setup-starter/blob/main/Instructions%20for%20setting%20up%20Java%20on%20your%20own%20machine.pdf). Instructions are also included in the setup video tutorials for [Windows](https://drive.google.com/file/d/1FxIAaGj7JAAN5QNpqcx1JBdv36yzX6TX/view?usp=sharing) and [Mac](https://drive.google.com/file/d/1EsF6t_ZA7TIdQ0iIu9X_dh1T5YGmzxNG/view?usp=sharing). Finally, take a screenshot of your terminal (including the commands you ran to compile and run the code) and include it in your [writeup](https://github.com/CSE11-SU121-Assignments/cse11-pa0.5-Setup-starter/blob/main/PA0.5%20Submission%20Template.pdf).
