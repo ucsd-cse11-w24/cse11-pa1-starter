@@ -22,8 +22,8 @@ Different assignments in this course have different collaboration policies. On t
 
 Your submission will be in two parts.
 
-    1. First, in the form of a PDF writeup. You can find a template for the writeup [TODO link to Google Docs] [here](https://github.com/CSE11-SU21-Assignments/cse11-pa0.5-Setup-starter/blob/main/PA0.5%20Submission%20Template.pdf). You will submit the PDF you create Please submit your writeup to the [PA0.5 gradescope assignment](FILL).
-    2. Second, you will have a Zoom meeting with a member of the course staff to introduce yourself to the team and confirm that your submission and setup worked correctly over screnshare. You can see the schedule of availability for these meetings and instructions here: [here](LINK to calendar/autograder instructions). Note that there may be a wait if many students try to do this right at the deadline, so using earlier hours is highly recommended.
+1. First, in the form of a PDF writeup. You can find a template for the writeup [TODO link to Google Docs] [here](https://github.com/CSE11-SU21-Assignments/cse11-pa0.5-Setup-starter/blob/main/PA0.5%20Submission%20Template.pdf). You will submit the PDF you create Please submit your writeup to the [PA0.5 gradescope assignment](FILL).
+2. Second, you will have a Zoom meeting with a member of the course staff to introduce yourself to the team and confirm that your submission and setup worked correctly over screnshare. You can see the schedule of availability for these meetings and instructions here: [here](LINK to calendar/autograder instructions). Note that there may be a wait if many students try to do this right at the deadline, so using earlier hours is highly recommended.
 
 ## Setup
 Follow the instructions in the video tutorial for your chosen environment (Windows, Mac, or CloudLabs) to set up your environment for writing code in Java (including your Java version number). You can also use this document for your reference. Write a few sentences describing which environment you will be using, and the steps you took to set it up. Note that you're free to use another environment if you like, we just don't have tutorials for other environments.
