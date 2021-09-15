@@ -1,6 +1,6 @@
 # CSE 11 Programming Assignment 1
 
-### Due Date: Tuesday, September 28, 10:00PM Pacific Time
+### Due Dates: Tuesday, September 28, 10:00PM Pacific Time
 
 ## Learning Goals
 - Set up and test your Java development environment
@@ -14,13 +14,16 @@ Different assignments in this course have different collaboration policies. On t
 - General instructions for setting up your environment can be found in [this](https://github.com/CSE11-SU121-Assignments/cse11-pa0.5-Setup-starter/blob/main/Instructions%20for%20setting%20up%20Java%20on%20your%20own%20machine.pdf) document, and as video tutorials for [Windows](https://drive.google.com/file/d/1FxIAaGj7JAAN5QNpqcx1JBdv36yzX6TX/view?usp=sharing)  and [Mac](https://drive.google.com/file/d/1EsF6t_ZA7TIdQ0iIu9X_dh1T5YGmzxNG/view?usp=sharing). Instructions for accessing CloudLabs can be found [here](https://github.com/CSE11-SU21-Assignments/cse11-sp21-pa0.5-Setup-starter/blob/main/CloudLabs%20Instructions.pdf).
 - If you get stuck at any point, do any one of the following:
     - Take a screenshot and ask on Piazza! (Not sure how to take a screenshot? Try Googling it for your particular platform, like “screenshot microsoft windows” or “screenshot chromebook” or “screenshot os x”, or ask how on Piazza and we can help.)
-    - Join a 1-on-1 or group [help session](https://ucsd-cse11-su221.github.io/#staff)!
+    - Join a [help session](https://ucsd-cse11-su221.github.io/#staff)!
     
 - If you get stuck, can't get help, and can't finish, write up a description of what you tried and why you couldn't finish! We'll give you credit for that, too, and it will help us understand how to help you get set up.
 
 ## Submission
-- Your submission will be in the form of a PDF writeup. You can find a template for the writeup [here](https://github.com/CSE11-SU21-Assignments/cse11-pa0.5-Setup-starter/blob/main/PA0.5%20Submission%20Template.pdf).
-- Please submit your writeup to the [PA0.5 gradescope assignment](https://www.gradescope.com/courses/283067/assignments/1394296).
+
+Your submission will be in two parts.
+
+    1. First, in the form of a PDF writeup. You can find a template for the writeup [TODO link to Google Docs] [here](https://github.com/CSE11-SU21-Assignments/cse11-pa0.5-Setup-starter/blob/main/PA0.5%20Submission%20Template.pdf). You will submit the PDF you create Please submit your writeup to the [PA0.5 gradescope assignment](FILL).
+    2. Second, you will have a Zoom meeting with a member of the course staff to introduce yourself to the team and confirm that your submission and setup worked correctly over screnshare. You can see the schedule of availability for these meetings and instructions here: [here](LINK to calendar/autograder instructions). Note that there may be a wait if many students try to do this right at the deadline, so using earlier hours is highly recommended.
 
 ## Setup
 Follow the instructions in the video tutorial for your chosen environment (Windows, Mac, or CloudLabs) to set up your environment for writing code in Java (including your Java version number). You can also use this document for your reference. Write a few sentences describing which environment you will be using, and the steps you took to set it up. Note that you're free to use another environment if you like, we just don't have tutorials for other environments.
