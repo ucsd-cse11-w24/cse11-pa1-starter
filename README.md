@@ -22,10 +22,10 @@ Different assignments in this course have different collaboration policies. On t
 - Your submission will be in the form of a PDF writeup. You can find a template for the writeup [here](https://github.com/CSE11-SU21-Assignments/cse11-pa0.5-Setup-starter/blob/main/PA0.5%20Submission%20Template.pdf).
 - Please submit your writeup to the [PA0.5 gradescope assignment](https://www.gradescope.com/courses/283067/assignments/1394296).
 
-## Setup (4.5 points)
+## Setup
 Follow the instructions in the video tutorial for your chosen environment (Windows, Mac, or CloudLabs) to set up your environment for writing code in Java (including your Java version number). You can also use this document for your reference. Write a few sentences describing which environment you will be using, and the steps you took to set it up. Note that you're free to use another environment if you like, we just don't have tutorials for other environments.
 
-## Running Code (4.5 points)
+## Running Code
 
 Create a new directory named pa05. Create a new file in pa05 named:
 `IntroductionTo.java`
@@ -62,15 +62,15 @@ Compile and run your program. You can find instructions for "Editing Your Java C
 
 *(Several of these examples are borrowed from [How to Design Programs](http://www.htdp.org/2003-09-26/Book/curriculum-Z-H-6.html#node_sec_3.3), and its [Supplemental Material](http://www.htdp.org/2003-09-26/Problems/2.html))*
 
-## Problem 1: Perimeter (1.5 Points, Autograded)
+## Problem 1: Perimeter 
 Develop a method named ```perimeter``` that when given the width and height of a rectangle will return its perimeter. 
 
-## Problem 2: Border Area (1.5 Points, Autograded)
+## Problem 2: Border Area
 Develop a method named ```borderArea``` that given a width and height describing a rectangle, and another width and height describing a rectangle cut out of the center of the other, returns the area of the region between them. For example, the blue area in this shape:
 
 <img width="270" alt="Q2_example" src="https://user-images.githubusercontent.com/25071081/112794129-4620bf00-901b-11eb-98a9-58b31327f6e2.png">
 
-## Problem 3: Converter (3 Points, Open-ended)
+## Problem 3: Converter 
 ### Implementation
 Develop a method (with a name of your choice!) that takes one int parameter, converts it to another int value, and returns the new int value. For example, your function could convert:
 - Fahrenheit to Celcius
@@ -81,7 +81,7 @@ Write a comment for your method, describing what it does and what parameter it t
 ### Testing
 Call your method on at least 3 different examples. Compare each result against a reference converter (Many search engines have built-in converters, or you can use a calculator) and add a comment above the function call to discuss differences (if any) that you get between your program and the reference.
 
-## Problem 4: Combiner (3 Points, Open-ended)
+## Problem 4: Combiner 
 ### Implementation
 Develop a method (with a name of your choice!) that takes at least two int parameters, combines them to another int value, and returns the new int value. For example, your function could combine:
 - Feet and inches into total in inches
