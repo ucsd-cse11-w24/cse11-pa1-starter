@@ -89,7 +89,7 @@ Develop a method named ```borderArea``` that given a width and height describing
 ## Problem 3: Converter 
 ### Implementation
 Develop a method (with a name of your choice!) that takes one int parameter, converts it to another int value, and returns the new int value. For example, your function could convert:
-- Fahrenheit to Celcius
+- Fahrenheit to Celsius
 - between currencies
 
 Write a comment for your method, describing what it does and what parameter it takes. If you use any outside sources for the conversion, be sure to cite those in the comment as well.
