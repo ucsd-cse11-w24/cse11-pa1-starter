@@ -116,7 +116,7 @@ Write a comment for your method, describing what it does and what parameters it 
 Call your method on at least 3 different examples. Can you call your method with arguments that run, but produce an incorrect output? Call your method with at least one such pair of arguments, and add a comment above it explaining why the output is incorrect. If you cannot find such a pair of arguments, write a comment explaining why you believe no such input exists.
 
 - The method has a correct header (parameters and return type)
-- You can explain what the parameters means, and if there are any nonsense values
+- You can explain what the parameters mean, and if there are any nonsense values
 - The method has a method body that matches the examples you chose
 - There are at least two examples of calling the method with different arguments, commented with their expected values
 - You can show your program running, the expected values are produced
