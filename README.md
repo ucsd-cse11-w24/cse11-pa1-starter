@@ -1,6 +1,6 @@
 # CSE 11 Programming Assignment 1
 
-### Due Dates: Tuesday, September 28, 10:00PM Pacific Time
+### Due Dates: Tuesday, October 5, 10:00PM Pacific Time
 
 ## Learning Goals
 - Set up and test your Java development environment
