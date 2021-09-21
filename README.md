@@ -66,12 +66,25 @@ Compile and run your program. You can find instructions for "Editing Your Java C
 *(Several of these examples are borrowed from [How to Design Programs](http://www.htdp.org/2003-09-26/Book/curriculum-Z-H-6.html#node_sec_3.3), and its [Supplemental Material](http://www.htdp.org/2003-09-26/Problems/2.html))*
 
 ## Problem 1: Perimeter 
-Develop a method named ```perimeter``` that when given the width and height of a rectangle will return its perimeter. 
+Develop a method named ```perimeter``` that when given the width and height of a rectangle will return its perimeter.
+
+The rubric we will use to grade this method is:
+
+- The method has a correct header (parameters and return type)
+- The method has a correct method body
+- There are at least two examples of calling the method with different arguments, commented with their expected values
+- You can show your program running and the expected values are produced
 
 ## Problem 2: Border Area
 Develop a method named ```borderArea``` that given a width and height describing a rectangle, and another width and height describing a rectangle cut out of the center of the other, returns the area of the region between them. For example, the blue area in this shape:
 
 <img width="270" alt="Q2_example" src="https://user-images.githubusercontent.com/25071081/112794129-4620bf00-901b-11eb-98a9-58b31327f6e2.png">
+
+- The method has a correct header (parameters and return type)
+- You can explain what each parameter means in terms of which rectangle it refers to and whether it refers to width or height
+- The method has a correct method body
+- There are at least two examples of calling the method with different arguments, commented with their expected values
+- You can show your program running and the expected values are produced
 
 ## Problem 3: Converter 
 ### Implementation
@@ -84,6 +97,13 @@ Write a comment for your method, describing what it does and what parameter it t
 ### Testing
 Call your method on at least 3 different examples. Compare each result against a reference converter (Many search engines have built-in converters, or you can use a calculator) and add a comment above the function call to discuss differences (if any) that you get between your program and the reference.
 
+- The method has a correct header (parameters and return type)
+- You can explain what the parameter means, and if there are any nonsense values (for example, a negative amount of rainfall in inches)
+- The method has a method body that matches the examples you chose
+- There are at least two examples of calling the method with different arguments, commented with their expected values
+- You can show your program running, the expected values are produced
+- You can justify the output based on an external source or your own design description
+
 ## Problem 4: Combiner 
 ### Implementation
 Develop a method (with a name of your choice!) that takes at least two int parameters, combines them to another int value, and returns the new int value. For example, your function could combine:
@@ -94,3 +114,10 @@ Write a comment for your method, describing what it does and what parameters it 
 
 ### Testing
 Call your method on at least 3 different examples. Can you call your method with arguments that run, but produce an incorrect output? Call your method with at least one such pair of arguments, and add a comment above it explaining why the output is incorrect. If you cannot find such a pair of arguments, write a comment explaining why you believe no such input exists.
+
+- The method has a correct header (parameters and return type)
+- You can explain what the parameters means, and if there are any nonsense values
+- The method has a method body that matches the examples you chose
+- There are at least two examples of calling the method with different arguments, commented with their expected values
+- You can show your program running, the expected values are produced
+- You can justify the output based on an external source or your own design description
