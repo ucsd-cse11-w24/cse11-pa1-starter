@@ -11,19 +11,14 @@
 Different assignments in this course have different collaboration policies. On this assignment, you can collaborate with **anyone in the course**, including **sharing code**. In your submission, give credit to all students and course staff who helped you with this assignment by noting their name and how you used their ideas or work. Note that using someone's work without giving credit to them is a violation of academic integrity.
 
 ## Part 1- Setting Up
-- General instructions for setting up your environment can be found in [this](https://github.com/CSE11-SU121-Assignments/cse11-pa0.5-Setup-starter/blob/main/Instructions%20for%20setting%20up%20Java%20on%20your%20own%20machine.pdf) document, and as video tutorials for [Windows](https://drive.google.com/file/d/1FxIAaGj7JAAN5QNpqcx1JBdv36yzX6TX/view?usp=sharing)  and [Mac](https://drive.google.com/file/d/1EsF6t_ZA7TIdQ0iIu9X_dh1T5YGmzxNG/view?usp=sharing). Instructions for accessing CloudLabs can be found [here](https://github.com/CSE11-SU21-Assignments/cse11-sp21-pa0.5-Setup-starter/blob/main/CloudLabs%20Instructions.pdf).
+- **On your own computer**: General instructions for setting up your environment can be found in [this](https://github.com/CSE11-SU121-Assignments/cse11-pa0.5-Setup-starter/blob/main/Instructions%20for%20setting%20up%20Java%20on%20your%20own%20machine.pdf) document, and as video tutorials for [Windows](https://drive.google.com/file/d/1FxIAaGj7JAAN5QNpqcx1JBdv36yzX6TX/view?usp=sharing)  and [Mac](https://drive.google.com/file/d/1EsF6t_ZA7TIdQ0iIu9X_dh1T5YGmzxNG/view?usp=sharing).
+- **In the CSE Labs**: Watch and follow the instructions from this video: [LINK]
 - If you get stuck at any point, do any one of the following:
     - Take a screenshot and ask on Piazza! (Not sure how to take a screenshot? Try Googling it for your particular platform, like “screenshot microsoft windows” or “screenshot chromebook” or “screenshot os x”, or ask how on Piazza and we can help.)
-    - Join a [help session](https://ucsd-cse11-f21.github.io/#staff)!
+    - Join a [help session](https://ucsd-cse11-f21.github.io/staff-and-help.html)!
     
 - If you get stuck, can't get help, and can't finish, write up a description of what you tried and why you couldn't finish! We'll give you credit for that, too, and it will help us understand how to help you get set up.
 
-## Submission
-
-Your submission will be in two parts.
-
-1. First, in the form of a PDF writeup. You can find a template for the writeup [TODO link to Google Docs] [here](https://docs.google.com/document/d/1wGIw0DH433jikfImoTUZZGMU9kTOzIf3/edit?usp=sharing&ouid=101937787285726759641&rtpof=true&sd=true). You will submit the PDF you create Please submit your writeup to the [PA1 gradescope assignment](FILL).
-2. Second, you will have a Zoom meeting with a member of the course staff to introduce yourself to the team and confirm that your submission and setup worked correctly over screnshare. You can see the schedule of availability for these meetings and instructions here: [here](LINK to calendar/autograder instructions). Note that there may be a wait if many students try to do this right at the deadline, so using earlier hours is highly recommended.
 
 ## Setup
 Follow the instructions in the video tutorial for your chosen environment (Windows, Mac, or CloudLabs) to set up your environment for writing code in Java (including your Java version number). You can also use this document for your reference. Write a few sentences describing which environment you will be using, and the steps you took to set it up. Note that you're free to use another environment if you like, we just don't have tutorials for other environments.
@@ -121,3 +116,22 @@ Call your method on at least 3 different examples. Can you call your method with
 - There are at least two examples of calling the method with different arguments, commented with their expected values
 - You can show your program running, the expected values are produced
 - You can justify the output based on an external source or your own design description
+
+
+## Submission
+
+Your submission will be in a few parts.
+
+1. First, in the form of a PDF writeup demonstrating your setup. You can find a template for the writeup [TODO link to Google Docs] [here](https://docs.google.com/document/d/1wGIw0DH433jikfImoTUZZGMU9kTOzIf3/edit?usp=sharing&ouid=101937787285726759641&rtpof=true&sd=true). You will submit the PDF you create Please submit your writeup to the [PA1 PDF assignment](FILL).
+2. Second, in the form of a code submission of your program with the methods you wrote for part two, at [PA1 code gradescope assignment](FILL).
+
+To get your work graded, come to any [remote help hours session](https://ucsd-cse11-f21.github.io/staff-and-help.html) after submitting both Gradescope assignments. A tutor will grade and give you feedback on your work live, and tell you anything you need to fix to get full credit.
+
+## Grading
+
+To earn a **2**:
+- Demonstrate via screenshots in your PDF a working setup of Java either in labs or on your own computer
+- Answer all questions in the PDF submission
+- Complete all checklist items for all methods
+
+To earn a **1**, submit something but miss some items from **2**
