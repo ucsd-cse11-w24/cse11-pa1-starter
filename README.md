@@ -20,7 +20,7 @@ https://sdacs.ucsd.edu/~icc/index.php. The username starts with "cse11fa21”. I
 
 If you get stuck at any point, do any one of the following:
   - Take a screenshot and ask on Piazza! (Not sure how to take a screenshot? Try Googling it for your particular platform, like “screenshot microsoft windows” or “screenshot chromebook” or “screenshot os x”, or ask how on Piazza and we can help.)
-  - Join a [help session](https://ucsd-cse11-f21.github.io/staff-and-help.html)!
+  - [Ask for help!](https://ucsd-cse11-f21.github.io/staff-and-help.html)!
 
 ## Running Code
 
