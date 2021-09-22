@@ -12,15 +12,21 @@ Different assignments in this course have different collaboration policies. On t
 
 ## Part 1- Setting Up
 - **On your own computer**: General instructions for setting up your environment can be found in [this document](https://github.com/CSE11-SU121-Assignments/cse11-pa0.5-Setup-starter/blob/main/Instructions%20for%20setting%20up%20Java%20on%20your%20own%20machine.pdf). There are specific video tutorials for [Windows](https://drive.google.com/file/d/1FxIAaGj7JAAN5QNpqcx1JBdv36yzX6TX/view?usp=sharing)  and [Mac](https://drive.google.com/file/d/1EsF6t_ZA7TIdQ0iIu9X_dh1T5YGmzxNG/view?usp=sharing).
-- **In the CSE Labs**: Watch and follow the instructions from this video: [LINK]
-- If you get stuck at any point, do any one of the following:
-    - Take a screenshot and ask on Piazza! (Not sure how to take a screenshot? Try Googling it for your particular platform, like “screenshot microsoft windows” or “screenshot chromebook” or “screenshot os x”, or ask how on Piazza and we can help.)
-    - Join a [help session](https://ucsd-cse11-f21.github.io/staff-and-help.html)!
+- **In the CSE Labs**: Watch and follow the instructions from this video: [LINK]. To get your account set up in the labs:
+  - If the lab computer is in Windows then restart and choose CentOS.
+  - If you are logged in, log out. Then, log in to the machine with your 11 account, which you can find using the ACMS account lookup tool:
+https://sdacs.ucsd.edu/~icc/index.php. The username starts with "cse11fa21”. If you have not already done so for this account, you will need to reset your password. You only need to do this once. Keep in mind that if you reset your login password on the ACMS website, you may not be able to login immediately with the new password. It may take up to 20 minutes for the new password to be effective.
+
+
+If you get stuck at any point, do any one of the following:
+  - Take a screenshot and ask on Piazza! (Not sure how to take a screenshot? Try Googling it for your particular platform, like “screenshot microsoft windows” or “screenshot chromebook” or “screenshot os x”, or ask how on Piazza and we can help.)
+  - Join a [help session](https://ucsd-cse11-f21.github.io/staff-and-help.html)!
     
 - If you get stuck, can't get help, and can't finish, write up a description of what you tried and why you couldn't finish! We'll give you credit for that, too, and it will help us understand how to help you get set up.
 
 
 ## Setup
+
 Follow the instructions in the video tutorial for your chosen environment (Windows, Mac, or CloudLabs) to set up your environment for writing code in Java (including your Java version number). You can also use this document for your reference. Write a few sentences describing which environment you will be using, and the steps you took to set it up. Note that you're free to use another environment if you like, we just don't have tutorials for other environments.
 
 ## Running Code
