@@ -47,7 +47,7 @@ Then, make a copy of the [writeup template](https://docs.google.com/document/d/1
 - For problem 3 and 4, you will use the following design recipe:
     1. Write the method header
     2. Write a short comment documenting the method (including assumptions, like if a parameter should take values only in a certain range)
-    3. Write 3 examples of calling the method
+    3. Write examples of calling the method
     4. Write the method body
     
     Using this recipe for problems 1 and 2 is optional, but highly encouraged.
