@@ -119,7 +119,7 @@ Your submission will be in a few parts.
 1. First, in the form of a PDF writeup demonstrating your setup. You can find a [template for the writeup here](https://docs.google.com/document/d/1wGIw0DH433jikfImoTUZZGMU9kTOzIf3/edit?usp=sharing&ouid=101937787285726759641&rtpof=true&sd=true). You will submit a PDF you create by filling in and downloading this document as PDF. Please submit your writeup to the [PA1 PDF assignment](FILL).
 2. Second, in the form of a code submission of your program with the methods you wrote for part two, at [PA1 code gradescope assignment](FILL).
 
-To get your work graded, come to any [remote help hours session](https://ucsd-cse11-f21.github.io/staff-and-help.html) after submitting both Gradescope assignments. A tutor will grade and give you feedback on your work during the session, and tell you anything you need to fix to get full credit.
+To get your work graded, come to any [remote help hours session](https://ucsd-cse11-f21.github.io/staff-and-help.html) after submitting both Gradescope assignments. A tutor will grade and give you feedback on your work during the session, and tell you anything you need to fix to get full credit. (If you don't come to get your work checked off, we will still grade your work, but you'll miss out on the opportunity for feedback).
 
 ## Grading
 
