@@ -125,4 +125,4 @@ To earn a **2**:
 - Answer all questions in the PDF submission
 - Complete all checklist items for all methods
 
-To earn a **1**, submit something but miss some items from **2**
+To earn a **1**, submit something but miss any of the requirements for earning a **2** listed above.
