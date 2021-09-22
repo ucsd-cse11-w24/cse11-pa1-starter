@@ -24,16 +24,15 @@ If you get stuck at any point, do any one of the following:
 
 ## Running Code
 
-Create a new directory named pa05. Create a new file in pa05 named:
-`IntroductionTo.java`
-Put the following code into that file (you can copy-paste):
+Create a new file named `FirstExample.java`, and put the following code into that file (you can copy-paste):
+
 ```
 class FirstExample {
   int theNumberFive = 5;
 }
 ```
 
-Compile and run your program. Finally, take a screenshot of your terminal (including the commands you ran to compile and run the code).
+Compile and run your program using `./run FirstExample` (Mac, Lab) or `\.run.bat FirstExample`. Finally, take a screenshot of your terminal (including the commands you ran to compile and run the code).
 
 Then, make a copy of the [writeup template](https://docs.google.com/document/d/1wGIw0DH433jikfImoTUZZGMU9kTOzIf3/edit?usp=sharing&ouid=101937787285726759641&rtpof=true&sd=true), answer the questions (including your screenshot).
 
