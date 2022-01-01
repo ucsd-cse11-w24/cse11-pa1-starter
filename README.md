@@ -1,1 +1,1 @@
-https://ucsd-cse11-f21.github.io/assignments/pa1.html
+https://github.com/ucsd-cse11-w22/cse11-pa1-starter
