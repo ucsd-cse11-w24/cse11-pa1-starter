@@ -12,5 +12,5 @@ class CompileTimeErrors{
         return myNumber * myNumer;
     }
   
-    int example = this.rightTriangeArea(3, 5); // expected 7.5
-    String fiveSquared = this.squareNumber(5); // expected 25
+    int example1 = this.rightTriangeArea(3, 5); // expected 7.5
+    String example2 = this.squareNumber(5); // expected 25
